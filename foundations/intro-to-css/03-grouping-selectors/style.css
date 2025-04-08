@@ -1,0 +1,17 @@
+.buttonGeneral, 
+.buttonTwo{
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+    border: 2px solid blue;
+    border-radius: 5%;
+}
+
+.buttonGeneral{
+    background-color: black;
+    color: aliceblue;
+}
+
+.buttonTwo{
+    background-color: yellow;
+    color: black;
+}
