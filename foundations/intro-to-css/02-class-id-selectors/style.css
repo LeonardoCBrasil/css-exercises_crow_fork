@@ -1,0 +1,21 @@
+.general_class{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.diferent_font_size{
+    font-size: 24px ;
+    
+}
+
+#id_number2{
+    color: rgb(14, 17, 219);
+    font-size: 36px;
+    
+}
+
+#id_number4{
+    font-size: 24px;
+    background-color: rgb(140, 238, 140);
+    font-weight: bolder;
+}
